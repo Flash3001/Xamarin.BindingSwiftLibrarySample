@@ -1,0 +1,10 @@
+framework module SwiftSample {
+  umbrella header "SwiftSample.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftSample.Swift {
+    header "SwiftSample-Swift.h"
+}
