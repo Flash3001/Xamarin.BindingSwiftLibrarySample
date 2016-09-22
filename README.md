@@ -1,7 +1,7 @@
 # Xamarin.BindingSwiftLibrarySample
-Sample Swift 2.2 binding project for Xamarin.iOS
+Sample Swift3 binding project for Xamarin.iOS
 
-This project is just a sample code with a simple Swift 2.2 library and a working Xamarin.iOS binding.
+This project is just a sample code with a simple Swift3 library and a working Xamarin.iOS binding.
 
 <h2>License</h2>
 Copyright 2016 Lucas Teixeira
