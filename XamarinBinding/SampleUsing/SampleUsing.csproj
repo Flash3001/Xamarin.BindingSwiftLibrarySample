@@ -71,7 +71,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
-    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignKey>iPhone Developer: flash3001@msn.com (58LV964LXK)</CodesignKey>
     <DeviceSpecificBuild>true</DeviceSpecificBuild>
     <MtouchDebug>true</MtouchDebug>
     <MtouchFastDev>true</MtouchFastDev>
@@ -89,8 +89,41 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
-    <Reference Include="Xamarin.Swift22.Support">
-      <HintPath>..\packages\Xamarin.SwiftSupport.2.2.0.0\lib\xamarinios10\Xamarin.Swift22.Support.dll</HintPath>
+    <Reference Include="Xamarin.Swift3">
+      <HintPath>..\packages\Xamarin.Swift3.3.0.0\lib\xamarinios10\Xamarin.Swift3.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.Core">
+      <HintPath>..\packages\Xamarin.Swift3.Core.3.0.0\lib\xamarinios10\Xamarin.Swift3.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.ObjectiveC">
+      <HintPath>..\packages\Xamarin.Swift3.ObjectiveC.3.0.0\lib\xamarinios10\Xamarin.Swift3.ObjectiveC.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.Foundation">
+      <HintPath>..\packages\Xamarin.Swift3.Foundation.3.0.0\lib\xamarinios10\Xamarin.Swift3.Foundation.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.CoreGraphics">
+      <HintPath>..\packages\Xamarin.Swift3.CoreGraphics.3.0.0\lib\xamarinios10\Xamarin.Swift3.CoreGraphics.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.CoreImage">
+      <HintPath>..\packages\Xamarin.Swift3.CoreImage.3.0.0\lib\xamarinios10\Xamarin.Swift3.CoreImage.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.Darwin">
+      <HintPath>..\packages\Xamarin.Swift3.Darwin.3.0.0\lib\xamarinios10\Xamarin.Swift3.Darwin.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.Dispatch">
+      <HintPath>..\packages\Xamarin.Swift3.Dispatch.3.0.0\lib\xamarinios10\Xamarin.Swift3.Dispatch.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.UIKit">
+      <HintPath>..\packages\Xamarin.Swift3.UIKit.3.0.0\lib\xamarinios10\Xamarin.Swift3.UIKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.CoreMedia">
+      <HintPath>..\packages\Xamarin.Swift3.CoreMedia.3.0.0\lib\xamarinios10\Xamarin.Swift3.CoreMedia.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.CoreAudio">
+      <HintPath>..\packages\Xamarin.Swift3.CoreAudio.3.0.0\lib\xamarinios10\Xamarin.Swift3.CoreAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Swift3.OS">
+      <HintPath>..\packages\Xamarin.Swift3.OS.3.0.0\lib\xamarinios10\Xamarin.Swift3.OS.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -124,5 +157,5 @@
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
-  <Import Project="..\packages\Xamarin.SwiftSupport.2.2.0.0\build\Xamarin.SwiftSupport.targets" Condition="Exists('..\packages\Xamarin.SwiftSupport.2.2.0.0\build\Xamarin.SwiftSupport.targets')" />
+  <Import Project="..\packages\Xamarin.Swift3.3.0.0\build\Xamarin.Swift3.targets" Condition="Exists('..\packages\Xamarin.Swift3.3.0.0\build\Xamarin.Swift3.targets')" />
 </Project>

@@ -99,6 +99,7 @@
 					1D8E90161D4D6DE6000FA74F = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = TL2X56GKUC;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -248,6 +249,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -266,6 +268,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.flash.SwiftSample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};

@@ -1,1 +1,9 @@
-﻿<Properties StartupItem="SampleUsing/SampleUsing.csproj" />
+﻿<Properties StartupConfiguration="{0ECCA9F3-FB3D-443D-9731-DEFB13C74A60}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleUsing PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.7360e4b8f5cf36e866bdc37b304e8ecfc3569b8a" />
+</Properties>

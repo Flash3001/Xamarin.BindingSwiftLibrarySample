@@ -14,23 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bq5gQ1Q8TR44w9OaHUM+zP9jTlc=
+		KnXRs39T3KWTOc+S3JUGFpMkpeQ=
 		</data>
-		<key>Modules/SwiftSample.swiftmodule/arm.swiftdoc</key>
+		<key>Modules/SwiftSample.swiftmodule/i386.swiftdoc</key>
 		<data>
-		t+NGSsJOTv6Rwvp2Vra30vo5BhU=
+		3/WsflF84wxm8dj/9jxgk4BpLP4=
 		</data>
-		<key>Modules/SwiftSample.swiftmodule/arm.swiftmodule</key>
+		<key>Modules/SwiftSample.swiftmodule/i386.swiftmodule</key>
 		<data>
-		ymTyhNVPnjlkP7YF+Ri/BG/l/xs=
+		vKGR/0Zj9NabjJyNvfWRuDORP0g=
 		</data>
-		<key>Modules/SwiftSample.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/SwiftSample.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		1WLTIKre2z5gAh7E/xRVBY/mGY0=
+		ZyJfcuMfZ9d+5cB1VEZi5EQnKDw=
 		</data>
-		<key>Modules/SwiftSample.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/SwiftSample.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		KZqd5ShOMa6JR+0/SOdV0SDGG7U=
+		ORmTNa9aQR88SQTh2quto2VbVV0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,48 +61,48 @@
 			FRqsnPX3KZGi5P8xAlxN/nqP2DbpwJxbz/f3qwHCBcE=
 			</data>
 		</dict>
-		<key>Modules/SwiftSample.swiftmodule/arm.swiftdoc</key>
+		<key>Modules/SwiftSample.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t+NGSsJOTv6Rwvp2Vra30vo5BhU=
+			3/WsflF84wxm8dj/9jxgk4BpLP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			gPFuHywgyoyjCaCOL4bqTXcumxFY04P/iiFFvUiyAXw=
+			VT9inP1OXLiUxk8abvkNWhq6GmYAlr6A9BGNxCpXqIM=
 			</data>
 		</dict>
-		<key>Modules/SwiftSample.swiftmodule/arm.swiftmodule</key>
+		<key>Modules/SwiftSample.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ymTyhNVPnjlkP7YF+Ri/BG/l/xs=
+			vKGR/0Zj9NabjJyNvfWRuDORP0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sy9o3dRLFNYlAkf0t0qs5XJxbd+gBlA0L/ikjmO3zD8=
+			nCgvMu7xnfmtFofnIPcOpqw+F0hbYDBXUZ0pvygcw7E=
 			</data>
 		</dict>
-		<key>Modules/SwiftSample.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/SwiftSample.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1WLTIKre2z5gAh7E/xRVBY/mGY0=
+			ZyJfcuMfZ9d+5cB1VEZi5EQnKDw=
 			</data>
 			<key>hash2</key>
 			<data>
-			sPXRVule1K4mMSEft6FLWXhgATQz0ynL4F0KH9XzjnA=
+			BdSTMWi8LKjRkK8h+QIcozCCYb/oSr8ZL9+xklPFYOA=
 			</data>
 		</dict>
-		<key>Modules/SwiftSample.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/SwiftSample.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KZqd5ShOMa6JR+0/SOdV0SDGG7U=
+			ORmTNa9aQR88SQTh2quto2VbVV0=
 			</data>
 			<key>hash2</key>
 			<data>
-			FJDitAu/8UAk6tsNr1GLhqgDMfomhWQLDHJGumYB4DI=
+			fmwwO0gSmlL179DwNukQ/LB0Vvc1ReAWsOKBZnIATpw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
