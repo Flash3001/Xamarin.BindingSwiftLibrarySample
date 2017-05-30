@@ -1,9 +1,32 @@
 ﻿<Properties StartupConfiguration="{0ECCA9F3-FB3D-443D-9731-DEFB13C74A60}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleUsing/ViewController.cs">
+    <Files>
+      <File FileName="SampleUsing/Main.cs" Line="1" Column="1" />
+      <File FileName="SampleUsing/ViewController.cs" Line="18" Column="47" />
+      <File FileName="XamarinBindingLibrary/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinBinding" expanded="True">
+            <Node name="SampleUsing" expanded="True" selected="True" />
+            <Node name="XamarinBindingLibrary" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="NativeReferenceFolder" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/flash/Desktop/SwiftSupport/SwiftBindingSample/XamarinBinding/SampleUsing/ViewController.cs" relfile="SampleUsing/ViewController.cs" line="18" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SampleUsing PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.7360e4b8f5cf36e866bdc37b304e8ecfc3569b8a" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleUsing PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.f97816351bdc7f3b0dad7d7114634f02c5d6288b" />
 </Properties>
